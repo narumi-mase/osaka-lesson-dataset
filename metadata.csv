@@ -1,0 +1,24 @@
+id,file_name,source_url,school_stage,grade,subject,title,image_path,ocr_text_path,image_note_path,lesson_procedure_path
+osaka_030,osaka_030.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,数学,データの分布,,,,data/processed/lesson_procedures/030/lesson_procedure_030.csv
+osaka_031,osaka_031.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,理科,身近な物理現象（音の性質）,,,,data/processed/lesson_procedures/031/lesson_procedure_031.csv
+osaka_032,osaka_032.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,理科,身近な物理現象（力の働き）,,,,data/processed/lesson_procedures/032/lesson_procedure_032.csv
+osaka_033,osaka_033.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,理科,活きている地球,,,,data/processed/lesson_procedures/033/lesson_procedure_033.csv
+osaka_034,osaka_034.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,音楽,曲想と音楽の特徴との関わりを感じ取って聴こう,,,,data/processed/lesson_procedures/034/lesson_procedure_034.csv
+osaka_035,osaka_035.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,音楽,日本に古くから伝わる音楽のよさや美しさを味わって聴こう,,,,data/processed/lesson_procedures/035/lesson_procedure_035.csv
+osaka_036,osaka_036.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,道徳,家族愛、家庭生活の充実,,,,data/processed/lesson_procedures/036/lesson_procedure_036.csv
+osaka_037,osaka_037.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,1年,国語,読みを深め合う(読むこと),,,,data/processed/lesson_procedures/037/lesson_procedure_037.csv
+osaka_038,osaka_038.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,国語,短歌に親しむ、短歌を味わう,,,,data/processed/lesson_procedures/038/lesson_procedure_038.csv
+osaka_039,osaka_039.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,社会,ヨーロッパ州,,,,data/processed/lesson_procedures/039/lesson_procedure_039.csv
+osaka_040,osaka_040.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,社会,ゆらぐ幕府の支配,,,,data/processed/lesson_procedures/040/lesson_procedure_040.csv
+osaka_041,osaka_041.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,数学,平行と合同,,,,data/processed/lesson_procedures/041/lesson_procedure_041.csv
+osaka_042,osaka_042.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,数学,図形の合同,,,,data/processed/lesson_procedures/042/lesson_procedure_042.csv
+osaka_043,osaka_043.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,理科,動物の体のつくりと働き（刺激と反応）,,,,data/processed/lesson_procedures/043/lesson_procedure_043.csv
+osaka_044,osaka_044.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,音楽,箏の様々な奏法を生かして表現を工夫しよう,,,,data/processed/lesson_procedures/044/lesson_procedure_044.csv
+osaka_045,osaka_045.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,音楽,歌詞が表す情景や作詞者・作曲者・編曲者の心情を感じとり曲想を味わいながら工夫して歌おう（荒城の月）,,,,data/processed/lesson_procedures/045/lesson_procedure_045.csv
+osaka_046,osaka_046.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,外国語（英語）,Unit 7 Amazing Australia,,,,data/processed/lesson_procedures/046/lesson_procedure_046.csv
+osaka_047,osaka_047.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,外国語（英語）,Lesson 6 USE Write,,,,data/processed/lesson_procedures/047/lesson_procedure_047.csv
+osaka_048,osaka_048.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,2年,外国語（英語）,Lesson 8 Water Problems,,,,data/processed/lesson_procedures/048/lesson_procedure_048.csv
+osaka_049,osaka_049.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,3年,社会,個人の尊重と日本国憲法,,,,data/processed/lesson_procedures/049/lesson_procedure_049.csv
+osaka_050,osaka_050.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,3年,数学,2次方程式の利用,,,,data/processed/lesson_procedures/050/lesson_procedure_050.csv
+osaka_051,osaka_051.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,3年,数学,関数y=ax^2,,,,data/processed/lesson_procedures/051/lesson_procedure_051.csv
+oosaka_052,osaka_052.pdf,https://www.osaka-c.ed.jp/category/plan/plan.html,中学校,3年,音楽,クラシックギターに親しみアンサンブルに挑戦しよう,,,,data/processed/lesson_procedures/052/lesson_procedure_052.csv
